@@ -11,3 +11,5 @@ I also have a regular Logitech G29 wheel, which I might want to mod some time in
 If communication errors occur, try disabling USBCDC serial logging.
 Developed on Linux, works with [new-lg4ff](https://github.com/berarma/new-lg4ff) driver. Tested mostly in BeamNG.drive.
 Not tested on Windows/Mac or basic Linux driver.
+
+Video demonstration: [2024/10/25](https://youtu.be/wODYtFMs8rI).
