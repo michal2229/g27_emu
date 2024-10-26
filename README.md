@@ -7,6 +7,7 @@ No buttons/pedals implemented yet, but it's on a TODO list (buttons and pedal ax
 
 This project is a base for future work of creating a decent direct-drive wheel. I wanted to learn as much as I can in the process, so I decided to make thing from ground up. 
 I also have a regular Logitech G29 wheel, which I might want to mod some time in the future. I might even replace the whole board inside with my stuff to have control over the wheel behavior.
+I know there already are projects like [OpenFFBoard](https://github.com/Ultrawipf/OpenFFBoard), but I guess I just like to reinvent the wheel from time to time.
 
 If communication errors occur, try disabling USBCDC serial logging.
 Developed on Linux, works with [new-lg4ff](https://github.com/berarma/new-lg4ff) driver. Tested mostly in BeamNG.drive.
