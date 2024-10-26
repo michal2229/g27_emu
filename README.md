@@ -1,6 +1,6 @@
 # g27_emu
 
-A basic USB steering wheel controller with force feedback for ESP32-S2, emulates G27 wheel.
+A basic USB steering wheel controller with force feedback for [ESP32-S2](https://www.wemos.cc/en/latest/s2/s2_mini.html), emulates G27 wheel.
 Currently configured for a 10 turn linear potentiometer and a H-bridge for motor control. 
 I might replace potentiometer with Hall effect encoder in the future, since potentiometer readings are quite noisy, with variance of about 800 for encoded 14bit wheel angle (in-game wheel vibrates a little; mitigated a bit using a Kalman filter).
 No buttons/pedals implemented yet, but it's on a TODO list (buttons and pedal axes already mapped to HID report data bits in my notes).
