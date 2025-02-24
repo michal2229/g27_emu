@@ -17,4 +17,4 @@ Not tested on Windows/Mac or basic Linux driver.
 <img src="https://raw.githubusercontent.com/michal2229/g27_emu/refs/heads/main/kicad/g27_emu/g27_emu.png" alt="schematic">
 
 ## videos
- * [2024-10-25: steering and force feedback in BeamNG.drive](https://youtu.be/wODYtFMs8rI)
+[![YouTube](http://i.ytimg.com/vi/wODYtFMs8rI/hqdefault.jpg)](https://www.youtube.com/watch?v=wODYtFMs8rI)
